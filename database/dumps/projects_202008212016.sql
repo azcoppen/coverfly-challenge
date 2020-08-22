@@ -1,0 +1,3 @@
+INSERT INTO `default`.projects (id,name,info,created_by,created_at,updated_at,deleted_at) VALUES 
+(1,'THE GREAT CODE MARATHON','Three intrepid explorers embark upon an epic journey to find the solution to a complex problem never solved by anyone before, which leads them down wildly-deviating roads, foolish endeavours, and ridiculous rewrites, as they battle legal action from sensitive Hollywood types bent on destroying their clever ideas.',2,'2020-08-21 22:12:37.000','2020-08-21 22:12:37.000',NULL)
+;
